@@ -13,6 +13,7 @@ namespace EntityFrameWork2.Controllers
         {
             var cf = pheEntities.MatHangs.ToList(); 
             return View(cf);
+            HELLO KHANG
         }
     }
 }
